@@ -14,7 +14,7 @@ const lightMode = {
 const darkMode = {
   bg: "#282a36",
   bgPanel: "#44475a",
-  colorHeadings: "#bd93f9",
+  colorHeadings: "#ff79c6",
   colorText: "#f8f8f2",
 };
 
